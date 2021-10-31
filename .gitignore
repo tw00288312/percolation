@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PercolationVisualizer/x64/Debug
+/PercolationVisualizer/.vs/PercolationVisualizer/v15
+/PercolationVisualizer/PercolationVisualizer/x64/Debug
